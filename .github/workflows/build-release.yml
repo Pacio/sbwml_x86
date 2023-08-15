@@ -21,7 +21,7 @@ jobs:
           - nanopi-r5s
           - x86_64
         tag:
-          - type: rc2
+          - type: dev
             version: openwrt-23.05
 
     steps:
